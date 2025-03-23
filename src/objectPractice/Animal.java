@@ -2,9 +2,9 @@ package objectPractice;
 
 public class Animal {
 	
-	public String name;
-	public String breeds;
-	public double weight;
+	protected String name;
+	protected String breeds;
+	protected double weight;
 	
 	Animal(String name,String breeds,double weight){
 		
